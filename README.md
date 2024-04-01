@@ -10,7 +10,7 @@ Disciplina: SQL_Fundamentos de Banco de Dados
 
 ### :small_orange_diamond:Objetivo:
 
- ✔️`:heavy_check_mark:` Explorar scripts SQL na ferramenta do MySQL
+ ✔️ Explorar scripts SQL na ferramenta do MySQL
 
  ✔️Estudar Modelo Lógico
 
